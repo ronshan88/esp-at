@@ -1,6 +1,8 @@
 # The Optimized Configuration
 # Do NOT edit unless you know exactly what you are doing
 
+CONFIG_AT_OTA_SUPPORT=n
+
 CONFIG_IDF_TARGET_ESP32=y
 
 # Serial flasher config
